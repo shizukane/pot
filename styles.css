@@ -102,16 +102,16 @@ a{
       max-width: 100%;
        margin-bottom: 30px; 
   } 
-  .pic1, .pic2, .pic3, .pic4, .pic5, .pic6{
+  .project1, .project2, .project3, .project4, .project5, .project6{
     width: 45%; 
     border-bottom: 5px solid black;
     transition: transform 0.3s ease-out;
   }
-  .pic1:hover,.pic2:hover,.pic3:hover,.pic4:hover,.pic5:hover,.pic6:hover{
+  .project1:hover,.project2:hover,.project3:hover,.project4:hover,.project5:hover,.pic6:hover{
     transform: translateY(10px);
 }
 
-  .pic2,.pic4,.pic6{
+  .project2,.project4,.project6{
     float: right;    
   }
 
